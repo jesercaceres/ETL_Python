@@ -1,6 +1,8 @@
-# Análise de Vendas de Filiais
+# Testando ETL Através do Google Colab
 
-Este repositório contém um script Python para análise de vendas de duas filiais de uma empresa. Os dados foram obtidos a partir de arquivos CSV e Excel.
+![Print Google Colab](https://i.imgur.com/cy216EX.png)
+
+Este repositório contém um `Script Python` para análise de vendas de duas filiais de uma empresa. Os dados foram obtidos a partir de arquivos CSV e Excel.
 
 ## Dados Obtidos
 
@@ -11,7 +13,7 @@ Os dados das vendas das filiais foram extraídos de dois arquivos:
 
 ## Processo de Análise
 
-O script Python utiliza a biblioteca pandas para ler os arquivos de dados, calcular o valor total das vendas e imprimir os resultados na saída padrão.
+O código utiliza a biblioteca pandas para ler os arquivos de dados, calcular o valor total das vendas e imprimir os resultados na saída padrão.
 
 ## Estrutura do Código
 
@@ -26,8 +28,4 @@ O código está estruturado da seguinte forma:
 
 Para executar o script, você precisa ter Python e a biblioteca pandas instalados em seu ambiente. Em seguida, basta executar o código Python fornecido neste repositório.
 
-Outra forma de executar é apenas clicar no ícone
-
-
-```bash
-python analysis.py
+Outra forma de executar é apenas ir no arquivo `EXEMPLO_ETL.ipynb` e clicar no ícone `Open in Collab`.
