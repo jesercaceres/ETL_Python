@@ -32,6 +32,7 @@ O código está estruturado da seguinte forma:
 2. **Extração de Dados**: Lê os dados dos arquivos CSV e Excel utilizando as funções `pd.read_csv()` e `pd.read_excel()`.
 3. **Transformação de Dados**: Calcula o valor total das vendas multiplicando a quantidade vendida pelo preço unitário e adiciona uma nova coluna "Valor Total" aos dataframes.
 4. **Saída de Resultados**: Imprime os dados das vendas de cada filial, incluindo a nova coluna "Valor Total".
+5.  **Armazenamento dos dados**: Salva os dados em um novo arquivo CSV.
 
 ## Como Executar
 
