@@ -39,3 +39,5 @@ O código está estruturado da seguinte forma:
 Para executar o script, você precisa ter Python e a biblioteca pandas instalados em seu ambiente. Em seguida, basta executar o código Python fornecido neste repositório.
 
 Outra forma de executar é apenas ir no arquivo `EXEMPLO_ETL.ipynb` e clicar no ícone `Open in Collab`.
+
+`Link colab: ` https://colab.research.google.com/drive/18uBxD1VwpLv5Z1WeBdGX-Giay2NATuN0?usp=sharing
